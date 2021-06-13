@@ -1,0 +1,244 @@
+@charset "utf-8";
+ul li a {
+    color: #000000;
+}
+.cuerpo .cabecera .logo {
+    background-color: #B9DDD9;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 32%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    float: left;
+}
+.cuerpo .cabecera {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    float: left;
+    background-color: #E7CA0A;
+}
+.cuerpo .piedepagina {
+    width: 100%;
+    text-align: center;
+}
+.cuerpo .cabecera .menu {
+    color: #000000;
+}
+
+
+.cuerpo {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.cuerpo .contenido {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    clear: left;
+}
+
+
+
+.cuerpo .cabecera .logo {
+}
+.cuerpo .cabecera .logo {
+    color: #000000;
+}
+
+
+.cuerpo .cabecera .menu {
+    width: 65%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    float: left;
+    text-shadow: 0px 0px #000000;
+    padding-top: 0px;
+    color: #BF0F11;
+    background-color: #F52225;
+    font-size: medium;
+    text-align: left;
+}
+.cabecera .menu ul {
+    font-size: larger;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.cabecera.menu ul{
+    float: right;
+
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    float: left;
+    font-size: x-small;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.menu ul li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+
+.cuerpo .cabecera .menu {
+}
+.cuerpo .contenido {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    width: 100%;
+}
+.cuerpo .piedepagina {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: #F1080C;
+}
+.cuerpo .cabecera .slider {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.contenido .parallas p {
+    text-align: center;
+    color: #0B0B0B;
+    font-size: large;
+    margin-top: 82px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #FDF8F8;
+}
+.cuerpo.contenido .plaza {
+    max-width: 1200px;
+    background-color: #ED5B5D;
+    color: #FFFDFD;
+    -webkit-box-shadow: 0px 0px #000000;
+    box-shadow: 0px 0px #000000;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.contenido .plaza img {
+    float: left;
+    overflow-x: visible;
+    overflow-y: visible;
+
+}
+
+
+.contenido .plaza p {
+    color: #FFFFFF;
+    font-size: large;
+    text-align: right;
+    background-color: #A7A7A7;
+}
+
+
+.cuerpo .contenido .parallas {
+    width: 100%;
+    height: 250px;
+    background-image: url(IMAGENES/Mesa%20de%20trabajo%201.png);
+}
+.primera {
+    margin-left: 1px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+.segunda {
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    width: 50%;
+}
+.tercra {
+    margin-left: 0%;
+    margin-right: 0px;
+    width: 41%;
+    padding-left: 0px;
+}
+.contenido .tecnologia p {
+    text-align: center;
+    background-color: #49468A;
+}
+.cuerpo .contenido .tecnologia {
+    background-color: #664ADB;
+    /* [disabled]width: 100%; */
+    padding-left: 0px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 0px;
+}
+.cuerpo .contenido .moda {
+}
+.contenido .moda p {
+    text-align: right;
+}
+.contenido .moda p {
+    text-align: center;
+}
+.moda p img {
+}
+.moda p img {
+    margin-right: 3px;
+    margin-top: 11px;
+}
+.cuarta {
+    margin-right: 2px;
+    margin-left: 26px;
+    width: 50%;
+}
+.contenido .ubicacion p {
+    text-align: center;
+    background-color: #E59697;
+}
+.cuerpo .contenido .ubicacion {
+}
+.contenido .ubicacion p {
+}
+.contenido .montallantas p {
+    width: 50%;
+    background-color: #FFFFFF;
+    float: right;
+    font-weight: 800;
+}
+.montallantas p img {
+    width: 97%;
+    float: right;
+    clear: left;
+    border-radius: 20px;
+    margin-top: 0px;
+    margin-right: 20px;
+    background-color: #FFFFFF;
+}
+
+
+
+ul li a {
+    color: #B82727;
+}
+.montallantas .HERRAMIENTAS p {
+    width: 100%;
+    background-color: #FF898B;
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.cuerpo .contenido .plaza {
+    text-align: center;
+    background-color: #EF1014;
+}
+.contenido .plaza p {
+    text-align: center;
+}
